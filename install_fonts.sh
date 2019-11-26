@@ -21,7 +21,7 @@ do
 	then
 		# update permissions to make fonts readable globally
 		# so they can be installed on the system
-		sudo chmod 644 "${file}"
+		sudo chmod 744 "${file}"
 		sudo cp "${file}" /usr/share/fonts/tesseract/
 		echo "Installing ${file} to system..."	
 	fi
