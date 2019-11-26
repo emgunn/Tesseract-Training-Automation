@@ -1,0 +1,8 @@
+Log Summary for automate on 11-22-2019, 17:19:57:
+Evaluation pre-training:
+At iteration 0, stage 0, Eval Char error rate=0.34662184, Word error rate=1.0852526
+Evaluation for Adobe Garamond Pro_checkpoint:
+At iteration 0, stage 0, Eval Char error rate=0.085483469, Word error rate=0.28075561
+0 hours, 25 minutes, and 17 seconds
+
+Evaluation pre-training:

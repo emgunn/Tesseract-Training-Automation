@@ -1,0 +1,3 @@
+This folder contains the trained data for English (best). This trained data is the clean original, pulled from the GitHub repo.
+
+If you want to restart training from this clean trained data, replace the eng.traineddata in the previous folder with this one.

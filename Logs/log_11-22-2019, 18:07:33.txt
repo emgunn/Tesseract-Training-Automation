@@ -1,0 +1,36 @@
+Log Summary for automate on 11-22-2019, 18:07:33:
+Adobe Garamond Pro
+Evaluation pre-training:
+At iteration 0, stage 0, Eval Char error rate=0.33773809, Word error rate=1.0750204
+Evaluation for Adobe Garamond Pro_checkpoint:
+At iteration 0, stage 0, Eval Char error rate=0.092957714, Word error rate=0.33410731
+0 hours, 24 minutes, and 11 seconds
+
+Minion Pro Bold
+Evaluation pre-training:
+At iteration 0, stage 0, Eval Char error rate=0.081889246, Word error rate=0.36960514
+Evaluation for Minion Pro Bold_checkpoint:
+At iteration 0, stage 0, Eval Char error rate=0.047679966, Word error rate=0.20514233
+1 hours, 35 minutes, and 32 seconds
+
+Minion Pro
+Evaluation pre-training:
+At iteration 0, stage 0, Eval Char error rate=0.094208061, Word error rate=0.38250033
+Evaluation for Minion Pro_checkpoint:
+At iteration 0, stage 0, Eval Char error rate=0.036694592, Word error rate=0.19733701
+0 hours, 42 minutes, and 25 seconds
+
+Myriad Pro Light
+Evaluation pre-training:
+At iteration 0, stage 0, Eval Char error rate=0.45616503, Word error rate=1.4036423
+Evaluation for Myriad Pro Light_checkpoint:
+At iteration 0, stage 0, Eval Char error rate=0.093311116, Word error rate=0.42622529
+0 hours, 54 minutes, and 7 seconds
+
+Myriad Pro
+Evaluation pre-training:
+At iteration 0, stage 0, Eval Char error rate=0.07918776, Word error rate=0.38214815
+Evaluation for Myriad Pro_checkpoint:
+At iteration 0, stage 0, Eval Char error rate=0.025156997, Word error rate=0.11269841
+0 hours, 38 minutes, and 20 seconds
+
