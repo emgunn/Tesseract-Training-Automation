@@ -5,4 +5,10 @@ Before using:
 =============
 Clone the langdata_lstm folder from https://github.com/tesseract-ocr/langdata_lstm into this directory.
 
-Each script has a short description on what it does.
+Each script has a short description of what it does.
+
+This model is equipped with Tesseract's best-data set.
+
+To reset the model, run reset_lstm.sh.
+
+More information on Tesseract can be found at https://github.com/tesseract-ocr/
